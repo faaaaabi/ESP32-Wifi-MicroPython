@@ -1,4 +1,4 @@
-def do_connect():
+def connect_wifi():
     import network
     import config
 
