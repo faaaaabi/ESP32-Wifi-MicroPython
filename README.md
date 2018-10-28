@@ -6,7 +6,7 @@ Based on: http://docs.micropython.org/en/latest/esp8266/quickref.html
 
 ### Use the sample config file to create your config file
 ```bash
-$ mv sample_config.py config.py
+$ cp sample_config.py config.py
 ```
 
 ### Provide your Wifi crednetials in config.py
